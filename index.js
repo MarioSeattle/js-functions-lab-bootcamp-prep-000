@@ -7,8 +7,6 @@ return "Happy holidays!";
 
 function happyHolidaysTo(){
 
-var name = "Mario";
-
 return `Happy holidays, ${name}`
 
 }
