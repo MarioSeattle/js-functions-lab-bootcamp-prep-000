@@ -17,6 +17,12 @@ return `Happy ${holiday}, ${name}!`;
 
 }
 
+function happyCustomHolidayTo(holiday,name){
+  
+return `Happy ${holiday}, ${name}!`;
+
+}
+
 
 
 
