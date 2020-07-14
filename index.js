@@ -1,7 +1,7 @@
 // write your code below!
 function happyHoliday(){
-  var message =  "Happy holidays!";
+  var message =  "Happy holidays!"
   
-  return ${message}
+  return `${message}`
   
 }
